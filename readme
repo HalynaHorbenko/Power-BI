@@ -1,0 +1,28 @@
+Účelem tohoto projektu bylo analyzovat populaci podle několika kritérií pomocí vizualizačních nástrojů v Power BI.
+
+Výsledek je prezentován na 4 stránkách s analýzou následujících otázky.
+1.	Informace prezentované od roku 1991. V tomto případě jsme v průběhu let zaznamenali postupný pokles počtu od 51,8 mil do 41 mil. 
+V roce 2015 zaznamenáváme prudký pokles celkového počtu. 
+Důvodem je nedostatek informací o Autonomní republice Krym a částech Doněcké a Luganské oblasti kvůli jejich okupaci Ruskem.
+
+2.	Analýza populace Ukrajiny podle oblastí ukazuje, které oblasti mají největší a nejmenší počet obyvatel. 
+Důvodem může být geografická topografie oblasti, a také přítomnost velkých výrobních zařízení.
+Je uvedena analýza populace podle oblastí k roku 2022. 
+Údaje o počtu obyvatel pro Autonomní republiku Krym a také Doněckou a Luganskou oblast jsou 
+uvedeny podle posledních známých údajů k roku 2014. 
+
+3.	Analýza populace Ukrajiny podle věku a pohlaví. 
+Je uvedena analýza populace podle věku a pohlaví k roku 2022 a možnost filtrovat podle oblasti. 
+Údaje o počtu obyvatel pro Autonomní republiku Krym a také Doněckou a Luganskou oblast jsou 
+uvedeny podle posledních známých údajů k roku 2014. 
+Největší počet obyvatel je ve věku 35-39 let. Mužů do 40 let je přitom více než žen. Po 40 se situace mění. 
+
+4.	Analýza změn počtu dětí v mateřské škole, školáků a studentů.
+Je poskytnuta analýza některých největších kategorií populace podle místa studia. 
+Děti navštěvující mateřskou škol, školáci, studenti vysokých škol. 
+Analýza byla provedena na datech z let 2021 (před válkou, k 1. lednu 2022) a 2023 (k 1. lednu 2024).
+Tato analýza ukázala, že v roce 2023 se počet dětí v mateřských školách a ve školách oproti roku 2021 snížil. 
+Zároveň se zvýšil počet studentů.
+
+Obecný trend klíčových ukazatelů ukazuje na demografické problémy v zemi jako celku
+
